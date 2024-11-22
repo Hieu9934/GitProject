@@ -1,0 +1,15 @@
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\bin\Debug\net9.0\Unit3Exercise2.exe
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\bin\Debug\net9.0\Unit3Exercise2.deps.json
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\bin\Debug\net9.0\Unit3Exercise2.runtimeconfig.json
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\bin\Debug\net9.0\Unit3Exercise2.dll
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\bin\Debug\net9.0\Unit3Exercise2.pdb
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\obj\Debug\net9.0\Unit3Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\obj\Debug\net9.0\Unit3Exercise2.AssemblyInfoInputs.cache
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\obj\Debug\net9.0\Unit3Exercise2.AssemblyInfo.cs
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\obj\Debug\net9.0\Unit3Exercise2.csproj.CoreCompileInputs.cache
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\obj\Debug\net9.0\Unit3Exercise2.sourcelink.json
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\obj\Debug\net9.0\Unit3Exercise2.dll
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\obj\Debug\net9.0\refint\Unit3Exercise2.dll
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\obj\Debug\net9.0\Unit3Exercise2.pdb
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\obj\Debug\net9.0\Unit3Exercise2.genruntimeconfig.cache
+D:\CodeGym Courses\Demo Files\GitProject\GitProject\Unit3Exercise2\obj\Debug\net9.0\ref\Unit3Exercise2.dll
